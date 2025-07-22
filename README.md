@@ -2,7 +2,7 @@
 <!--
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jkgithub02)](https://github.com/jkgithub02/github-readme-stats)
 -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jkgithub02)](https://github.com/jkgithub02/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jkgithub02&langs_count=8&layout=compact&theme=holi)](https://github.com/jkgithub02/github-readme-stats)
 <!--
 **jkgithub02/jkgithub02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
